@@ -1,5 +1,5 @@
 
-# instagram-login
+# instagram-auto-login
 
 Auto instagram login with Playwright library and get sessionId easily
 
